@@ -69,7 +69,7 @@ body {
       rgba(255, 255, 255, 0.9),
       rgba(255, 255, 255, 0.9)
     ),
-    url('assets/protein-bars.jpg');
+    url('assets/protein-bars.webp');
   background-size: cover;
   padding: 8rem 2rem;
   text-align: center;
@@ -487,7 +487,7 @@ body {
       rgba(255, 255, 255, 0.9),
       rgba(255, 255, 255, 0.9)
     ),
-    url('assets/bite-mixes.jpg');
+    url('assets/bite-mixes.webp');
   background-size: cover;
   padding: 6rem 2rem;
   text-align: center;
@@ -603,7 +603,7 @@ body {
       rgba(255, 255, 255, 0.9),
       rgba(255, 255, 255, 0.9)
     ),
-    url('assets/muscle-bar.jpg');
+    url('assets/muscle-bar.webp');
   background-size: cover;
   padding: 6rem 2rem;
   text-align: center;
@@ -697,7 +697,7 @@ body {
       rgba(255, 255, 255, 0.9),
       rgba(255, 255, 255, 0.9)
     ),
-    url('assets/chocolate-bars.jpg');
+    url('assets/chocolate-bars.webp');
   background-size: cover;
   padding: 6rem 2rem;
   text-align: center;
@@ -819,7 +819,7 @@ body {
       rgba(255, 255, 255, 0.9),
       rgba(255, 255, 255, 0.9)
     ),
-    url('assets/weightloss-bar.jpg');
+    url('assets/weightloss-bar.webp');
   background-size: cover;
   padding: 6rem 2rem;
   text-align: center;
